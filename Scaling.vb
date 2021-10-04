@@ -1,5 +1,6 @@
 '---------------------
-' 2 TEXTS - SAME SCALE - MAXSIZE ON PARENT 
+' Scaling script : select smaller of the two texts and gives the same scaling to both. 
+' Maxsize should be put on parent container
 '---------------------
 ' Description 		: Applique la plus petite valeur de scale aux deux text containers
 ' Auteur 			: ANIK Myriam
